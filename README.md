@@ -1,4 +1,4 @@
-# MERN Chat App
+# MERN Live-Chat App
 
 Welcome to the MERN Chat App! This project demonstrates how to build a real-time chat application using the MERN stack (MongoDB, Express, React, Node.js) and Socket.IO. It's a great resource for learning full-stack development and real-time communication.
 
@@ -9,10 +9,6 @@ Welcome to the MERN Chat App! This project demonstrates how to build a real-time
 - **Database Integration:** Store and manage data using MongoDB.
 - **Responsive UI:** A modern, interactive user interface built with React.
 
-## Getting Started
-
-To get started with the project:
-
-1. **Clone the Repository:**
+## **Clone the Repository:**
    ```bash
    git clone https://github.com/VivekSingla20/Live-Chat.git
